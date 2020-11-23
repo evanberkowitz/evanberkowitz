@@ -38,3 +38,6 @@ I am a research assistant professor in the nuclear theory group of [the Maryland
 [VIII]:     http://physics.mit.edu/
 [XVIII]:    https://math.mit.edu/
 
+[METAQ]:    https://github.com/evanberkowitz/metaq/
+
+[RINALDI]:  https://github.com/erinaldi
