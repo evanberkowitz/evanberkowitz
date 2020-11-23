@@ -10,6 +10,21 @@ I am a research assistant professor in the nuclear theory group of [the Maryland
  - 2008-2013 Ph.D. student of [Paulo Bedaque][PAULO] in the [Theoretical Quarks, Hadrons, and Nuclei][TQHN] group at the [University of Maryland][UMD]
  - 2004-2008 S.B. at [MIT][MIT]; Course VIII ([physics][VIII]), minor in XVIII ([mathematics][XVIII])
 
+# Selected Publications
+
+ - Ostmeyer et al., *The Semimetal-Mott Insulator Quantum Phase Transition of the Hubbard Model on the Honeycomb Lattice*, *Accepted to Phys. Rev. B*, [22005.1111](https://arxiv.org/abs/22005.1111).
+
+ - Chang et al., *A per-cent-level determination of the nucleon axial coupling from Quantum Chromodynamics*, [*Nature*, 558:91-94, 2018](https://doi.org/10.1038/s41586-018-0161-8), [1805.12130](https://arxiv.org/abs/1805.12130).
+
+ - Nicholson et al., *Heavy Physics Contributions to Neutrinoless Double Beta Decay from QCD*, [*Phys. Rev. Lett., 121:172501*](https://doi.org/10.1103/PhysRevLett.121.172501), [1805.02634](https://arxiv.org/abs/1805.02634).
+
+- E. Berkowitz, *[METAQ][METAQ]: Bundle Supercomputing Tasks*, [1702.06122](https://arxiv.org/abs/1702.06122).
+
+ - E. Berkowitz et al., *Precision lattice test of the gauge/gravity duality at large N*.  [*Phys. Rev*, D94:094501, 2016](http://link.aps.org/doi/10.1103/PhysRevD.94.094501), [1606.04951](https://arxiv.org/abs/1606.04951).
+
+ - E. Berkowitz et al., *Two-Nucleon Higher Partial-Wave Scattering from Lattice QCD*.  [*Phys. Lett. B*, 765:285-292, 2017](https://doi.org/10.1016/j.physletb.2016.12.024), [1508.00866](http://arxiv.org/abs/1508.00886).
+
+ - E. Berkowitz, M. Buchoff, and [E. Rinaldi][RINALDI], *Lattice QCD Input for Axion Cosmology*.  [*Phys. Rev.*, D92:034507, 2015](http://dx.doi.org/10.1103/PhysRevD.92.034507), [1505.07455](http://arxiv.org/abs/1505.07455).
 
 [MCFP]:     https://mcfp.physics.umd.edu/
 [IKP]:      http://www.fz-juelich.de/ikp/EN/Home/home_node.html
