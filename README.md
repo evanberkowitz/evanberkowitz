@@ -1,6 +1,8 @@
 # Evan Berkowitz
 
-I am a research assistant professor in the nuclear theory group of [the Maryland Center for Fundamental Physics][mcfp].
+I am a research assistant professor in the nuclear theory group of [the Maryland Center for Fundamental Physics][mcfp].  I leverage leadership-class supercomputing to solve problems in quantum field theory.  This often involves large-scale HMC calculations.
+
+You can find me on [the arXiv][ARXIV], [inSPIRE][INSPIRE], [google scholar][SCHOLAR] or track my [ORCiD][ORCID].
 
 
 # Curriculum Vitæ
@@ -26,6 +28,11 @@ I am a research assistant professor in the nuclear theory group of [the Maryland
  - E. Berkowitz et al., *Two-Nucleon Higher Partial-Wave Scattering from Lattice QCD*.  [*Phys. Lett. B*, 765:285-292, 2017](https://doi.org/10.1016/j.physletb.2016.12.024), [1508.00866](http://arxiv.org/abs/1508.00886).
 
  - E. Berkowitz, M. Buchoff, and [E. Rinaldi][RINALDI], *Lattice QCD Input for Axion Cosmology*.  [*Phys. Rev.*, D92:034507, 2015](http://dx.doi.org/10.1103/PhysRevD.92.034507), [1505.07455](http://arxiv.org/abs/1505.07455).
+
+[ARXIV]:    http://arxiv.org/a/berkowitz_e_1
+[INSPIRE]:  https://inspirehep.net/authors/1078474
+[SCHOLAR]:  https://scholar.google.com/citations?user=hEy9k60AAAAJ
+[ORCID]:    http://orcid.org/0000-0003-1082-1374
 
 [MCFP]:     https://mcfp.physics.umd.edu/
 [IKP]:      http://www.fz-juelich.de/ikp/EN/Home/home_node.html
