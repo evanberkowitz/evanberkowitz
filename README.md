@@ -9,6 +9,7 @@ I am a research assistant professor in the nuclear theory group of [the Maryland
  - 2013-2016 Postdoctoral Researcher, [Lattice field theory group] at [Lawrence Livermore National Laboratory][LLNL]
  - 2008-2013 Ph.D. student of [Paulo Bedaque][PAULO] in the [Theoretical Quarks, Hadrons, and Nuclei][TQHN] group at the [University of Maryland][UMD]
  - 2004-2008 S.B. at [MIT][MIT]; Course VIII ([physics][VIII]), minor in XVIII ([mathematics][XVIII])
+ - 1998-2004 [Hunter College High School][HCHS]
 
 # Selected Publications
 
@@ -37,6 +38,7 @@ I am a research assistant professor in the nuclear theory group of [the Maryland
 [MIT]:      http://web.mit.edu/
 [VIII]:     http://physics.mit.edu/
 [XVIII]:    https://math.mit.edu/
+[HCHS]:     https://www.hunterschools.org/high-school/high-school-welcome
 
 [METAQ]:    https://github.com/evanberkowitz/metaq/
 
