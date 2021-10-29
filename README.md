@@ -18,7 +18,11 @@ You can find me on [the arXiv][ARXIV], [inSPIRE][INSPIRE], [google scholar][SCHO
 
 # Selected Publications
 
- - Ostmeyer et al., *The Semimetal-Mott Insulator Quantum Phase Transition of the Hubbard Model on the Honeycomb Lattice*, *Accepted to Phys. Rev. B*, [22005.1111](https://arxiv.org/abs/22005.1111).
+ - Ostmeyer et al., *The Antiferromagnetic Character of the Quantum Phase Transition in the Hubbard Model on the Honeycomb Lattice*, [Phys. Rev. B, 104:155142, Oct 2021](https://doi.org/10.1103/PhysRevB.104.155142), [2105.06936](https://arxiv.org/abs/2105.06936).
+
+ - Wynen et al., *Machine Learning to Alleviate Hubbard Model Sign Problems*, [*Phys. Rev. B, 103:125153, Mar 2021*](https://doi.org/10.1103/PhysRevB.103.125153), [2006.11221](https://arxiv.org/abs/2006.11221).
+
+ - Ostmeyer et al., *The Semimetal-Mott Insulator Quantum Phase Transition of the Hubbard Model on the Honeycomb Lattice*, [*Phys. Rev. B, 102:245105, Dec. 2020*](https://link.aps.org/doi/10.1103/PhysRevB.102.245105), [22005.1111](https://arxiv.org/abs/22005.1111).
 
  - Chang et al., *A per-cent-level determination of the nucleon axial coupling from Quantum Chromodynamics*, [*Nature*, 558:91-94, 2018](https://doi.org/10.1038/s41586-018-0161-8), [1805.12130](https://arxiv.org/abs/1805.12130).
 
