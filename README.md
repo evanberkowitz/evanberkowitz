@@ -7,6 +7,9 @@ You can find me on [the arXiv][ARXIV], [inSPIRE][INSPIRE], [google scholar][SCHO
 
 # Curriculum Vitæ
 
+ - 2021-present Staff Scientist, [Institut für Kernphysik][IKP], [Institute for Advanced Simulation][IAS], and [Jülich Supercomputing Centre][JSC], [Forschungszentrum Jülich][FZJ]
+
+ - 2019-2021 Research Assistant Professor, [Maryland Center for Fundamental Physics][MCFP], [University of Maryland][UMD].
  - 2016-2019 Postdoctoral Researcher, [Institut für Kernphysik][IKP] and [Institute for Advanced Simulation][IAS], [Forschungszentrum Jülich][FZJ]
  - 2013-2016 Postdoctoral Researcher, [Lattice field theory group] at [Lawrence Livermore National Laboratory][LLNL]
  - 2008-2013 Ph.D. student of [Paulo Bedaque][PAULO] in the [Theoretical Quarks, Hadrons, and Nuclei][TQHN] group at the [University of Maryland][UMD]
@@ -38,10 +41,12 @@ You can find me on [the arXiv][ARXIV], [inSPIRE][INSPIRE], [google scholar][SCHO
 [IKP]:      http://www.fz-juelich.de/ikp/EN/Home/home_node.html
 [IAS]:      http://www.fz-juelich.de/portal/EN/AboutUs/organizational_structure/Institutes/InstituteAdvancedSimulation/_node.html
 [FZJ]:      http://www.fz-juelich.de/portal/EN/Home/home_node.html
+[JSC]:      https://www.fz-juelich.de/ias/jsc/EN/Home/home_node.html
 [lattice]:  https://lattice.llnl.gov/
 [LLNL]:     https://www.llnl.gov/
 [PAULO]:    https://umdphysics.umd.edu/people/faculty/current/item/41-bedaque.html#biography
 [TQHN]:     http://www.physics.umd.edu/tqhn/
+[UMD]:      https://umdphysics.umd.edu/
 [MIT]:      http://web.mit.edu/
 [VIII]:     http://physics.mit.edu/
 [XVIII]:    https://math.mit.edu/
